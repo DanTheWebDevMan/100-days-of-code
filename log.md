@@ -1,29 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: December 27, 2019 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Came across the rules for 100 days of Code challenge. Was a little confused as to where to start, so started watching the "Introduction to HTML and CSS" track videos on Treehouse. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:**: Something I never knew style wise was the code to the hover feature allowing you to make an image bigger and being able to rotate it. A little stuck on where exactly to proceed next, (review classwork, read book, do more treehouse videos, etc.) but I think I'll start with the FreeCodeBootcamp online on a daily basis. Might have to cancel my Treehouse subscription and get it again at a later time.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
+
+
+### Day 1: December 28, 2019 
+
+**Today's Progress**: 
+
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
