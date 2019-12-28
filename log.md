@@ -5,6 +5,8 @@
 
 **Today's Progress**: Came across the rules for 100 days of Code challenge. Was a little confused as to where to start, so started watching the "Introduction to HTML and CSS" track videos on Treehouse. Then started my first lesson in Free Code Bootcamp, "Basic HTML and HTML5: Say Hello to HTML Elements". Never hurts to get a refresher on the basics, right?
 
+Completed 50% of lesson before calling it a night (Turn an Image Into a Link)
+
 **Thoughts:**: Something I never knew style wise was the code to the hover feature allowing you to make an image bigger and being able to rotate it. A little stuck on where exactly to proceed next, (review classwork, read book, do more treehouse videos, etc.) but I think I'll start with the FreeCodeBootcamp online on a daily basis. Might have to cancel my Treehouse subscription and get it again at a later time.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
