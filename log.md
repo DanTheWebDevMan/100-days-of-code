@@ -3,9 +3,9 @@
 
 ### Day 1: December 28, 2019 
 
-**Today's Progress**: Learned how to add input field to form, how to add a submit button, created a set of radio buttons, how to create checkboxes, Use the value attribute with Radio Buttons and Checkboxes
+**Today's Progress**: Learned how to add input field to form, how to add a submit button, created a set of radio buttons, how to create checkboxes, Use the value attribute with Radio Buttons and Checkboxes, intro to divs. Completed "Introduction to HTML"
 
-**Thoughts** 
+**Thoughts** : learned some more detailed HTML features, such as radio button, check button, how to have one the buttons selected by default by using "checked". 
 
 ### Day 0: December 27, 2019 
 
