@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 1: December 28, 2019 
+
+**Today's Progress**: Learned how to add input field to form, how to add a submit button, created a set of radio buttons, how to create checkboxes, Use the value attribute with Radio Buttons and Checkboxes
+
+**Thoughts** 
+
 ### Day 0: December 27, 2019 
 
 
@@ -12,11 +19,7 @@ Completed 50% of lesson before calling it a night (Turn an Image Into a Link)
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 
-### Day 1: December 28, 2019 
 
-**Today's Progress**: 
-
-**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
