@@ -1,13 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 28, 2019 
 
-### Day 1: December 28, 2019 
+**Today's Progress**: Dived into CSS starting today. Used to creating a seperate CSS file but got some practice in with in-style CSS, something I really haven't practiced before. Covered adding CSS classes, changing the font size of an element, setting the font family of an element, importing Google Font, specify how fonts should degrade, sizing images, and different border styles.
+
+**Thoughts** : learned some more detailed HTML features, such as radio button, check button, how to have one the buttons selected by default by using "checked". 
+
+
+### Day 2: December 28, 2019 
 
 **Today's Progress**: Learned how to add input field to form, how to add a submit button, created a set of radio buttons, how to create checkboxes, Use the value attribute with Radio Buttons and Checkboxes, intro to divs. Completed "Introduction to HTML"
 
 **Thoughts** : learned some more detailed HTML features, such as radio button, check button, how to have one the buttons selected by default by using "checked". 
 
-### Day 0: December 27, 2019 
+### Day 1: December 27, 2019 
 
 
 **Today's Progress**: Came across the rules for 100 days of Code challenge. Was a little confused as to where to start, so started watching the "Introduction to HTML and CSS" track videos on Treehouse. Then started my first lesson in Free Code Bootcamp, "Basic HTML and HTML5: Say Hello to HTML Elements". Never hurts to get a refresher on the basics, right?
