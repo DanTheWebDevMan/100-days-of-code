@@ -1,8 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 3: December 28, 2019 
+### Day 4: December 30, 2019 
 
-**Today's Progress**: Dived into CSS starting today. Used to creating a seperate CSS file but got some practice in with in-style CSS, something I really haven't practiced before. Covered adding CSS classes, changing the font size of an element, setting the font family of an element, importing Google Font, specify how fonts should degrade, sizing images, and different border styles.
+**Today's Progress**: Covered adding rounded corners and how to make circlular borders w/ border-radius, using an id Attribute to Style an Element, adjusting the padding,margins, and borders of an element,Use Clockwise Notation to Specify the Padding of an Element, Use Attribute Selectors to Style Elements, learned about Absulute vs relative units, and overriding class declarations
+
+**Thoughts** : Never knew about the Clockwise notation to specify the padding of an element. Never used Attribute Selectors before.
+
+
+### Day 3: December 29, 2019 
+
+**Today's Progress**: Dove into CSS starting today. Used to creating a separate CSS file but got some practice in with in-style CSS, something I really haven't practiced before. Covered adding CSS classes, changing the font size of an element, setting the font family of an element, importing Google Font, specify how fonts should degrade, sizing images, and different border styles.
 
 **Thoughts** : learned some more detailed HTML features, such as radio button, check button, how to have one the buttons selected by default by using "checked". 
 
