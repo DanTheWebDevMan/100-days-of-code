@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: December 31, 2019 
+
+**Today's Progress**:  CSS Review- Using Hex Code, using !important, RGB values to color elements, CSS variables to change several elements at once, creating custom CSS variable, attaching a Fallback to CSS variables, inheriting CSS variables, media query to change a variable.
+
+**Thoughts** : Never knew how detailed the hex coding for colors could be. Never knew about Fallback values- found this a little difficult.
+
 ### Day 4: December 30, 2019 
 
 **Today's Progress**: Covered adding rounded corners and how to make circlular borders w/ border-radius, using an id Attribute to Style an Element, adjusting the padding,margins, and borders of an element,Use Clockwise Notation to Specify the Padding of an Element, Use Attribute Selectors to Style Elements, learned about Absulute vs relative units, and overriding class declarations
