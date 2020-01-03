@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 2, 2020
+
+**Today's Progress**:  Missed yesterday's coding due to new years festivities, but won't fall back off. Work on my resolutions appplication some more and started the Applied Visual Design module. Creating visual balance using the text-align property, using the width & height properties, worked on strong, underline, italicize, strikethrough tags, opacity, text transform.  
+
+**Thoughts** : Really liking how in depth I'm getting into CSS. Never knew about box-shadow and text-transform.
+
 
 ### Day 5: December 31, 2019 
 
