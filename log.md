@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: January 4, 2020
+
+**Today's Progress**: Applied Visual Design module: Font-size, font-weight, line-height, changing an element's relative positions, locking an element to the browser window with fixed positioning,
+
+**Thoughts** : Never knew about pseudo-classes. The term "relative" was always confusing to me- but I think I got a better understanding of it today. From my understanding, relative states how CSS changes from where it would [relatively] normally be. The CSS offsets of top or bottom, and left or right tell the browser how far to offset an item relative to where it would sit in the normal flow of the document. One key difference between the fixed and absolute positions is that an element with a fixed position won't move when the user scrolls. "position: fixed" would be good to use for navbars I want to keep in place (think excel's 'freeze top row')
+
+
 ### Day 6: January 2, 2020
 
 **Today's Progress**:  Missed yesterday's coding due to new years festivities, but won't fall back off. Work on my resolutions appplication some more and started the Applied Visual Design module. Creating visual balance using the text-align property, using the width & height properties, worked on strong, underline, italicize, strikethrough tags, opacity, text transform.  
